@@ -1,8 +1,8 @@
 # Portfólio – Banco de Dados Não-Relacional – 2026/1
 ## Aluno
-- Nome:
-- LinkedIn:
-- GitHub:
+- Nome: Gabriel Reginaldo Teodoro dos Santos
+- LinkedIn: https://www.linkedin.com/in/gabrielteodoroo/
+- GitHub:https://github.com/teodoroooo
 ---
 ## Estrutura
 - P1
